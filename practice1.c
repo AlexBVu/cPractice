@@ -3,6 +3,10 @@
 
 int main() {
     
-    unsigned int  
+    unsigned int age = 30;
+
+    printf("I am %d years old", age);
+
+    return 0;
 
 }
